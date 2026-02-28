@@ -2,8 +2,6 @@
 
 📫 How to reach me: mserdaroygen@gmail.com
 
-:speech_balloon: My blog: https://serdaroygen.github.io/
-
 :movie_camera: My YouTube Channel: https://www.youtube.com/channel/UC8xFE298G7tRN40rDUEwppw
 
 :video_game: My itch.io page: https://rock0n.itch.io/
